@@ -33,3 +33,7 @@ demo/node_modules//*/.cache
 /**/.metadata
 /**/.project
 /**/.settings
+
+assets/
+node_modules/
+target/
