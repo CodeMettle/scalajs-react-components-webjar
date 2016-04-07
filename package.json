@@ -33,15 +33,16 @@
     "webpack": "^1.9.10",
     "webpack-dev-server": "^1.9.0",
     "material-ui": "v0.14.4",
-    "react": "v0.14.7",
-    "react-dom": "v0.14.7",
+    "react": "v0.14.8",
+    "react-dom": "v0.14.8",
     "react-geomicons": "^2.0.4",
     "react-infinite": "^0.7.1",
     "react-select": "^1.0.0-beta",
     "react-spinner": "^0.2.2",
     "react-tagsinput": "^3.0.3",
     "react-tap-event-plugin": "^0.2.1",
-    "svg-loader": "0.0.2"
+    "svg-loader": "0.0.2",
+	"react-data-grid": "0.14.22"
   },
   "dependencies": {
 
