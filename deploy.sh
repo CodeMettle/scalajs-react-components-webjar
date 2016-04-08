@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPOSITORY=internal
-VERSION=0.2.4
+VERSION=0.2.5
 
 npm install
 webpack
